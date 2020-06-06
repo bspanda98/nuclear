@@ -1,0 +1,4 @@
+[submodule "tests"]
+	path = tests/testdata
+	url = ../nuclear-tests
+	branch = develop

@@ -1,0 +1,11 @@
+{
+  "name": "nuclear",
+  "version": "3.0.6",
+  "author": "Nuclear Core LTD <contact@energi.team>",
+  "license": "GPL-3.0+",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "ethereumjs-util": "^6.2.0",
+    "ethlint": "^1.2.5"
+  }
+}
